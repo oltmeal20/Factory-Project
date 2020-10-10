@@ -1,0 +1,7 @@
+Luke Oltmanns
+Factory Project
+CompSci371
+
+Used the Command Line example provided for us from class and used the Factroy example also provided for us from class
+to create a program that reads strings from the command line, and through the factory design pattern, 
+the program identifies the Apple product that is read and gives a brief discription of it.
